@@ -64,7 +64,7 @@ if (!class_exists('LoginCandyPlugin')) {
 			$logo_candy = get_option('logo_candy');
 
 			if (isset($_POST[$hidden_field_name]) and $_POST[$hidden_field_name] == 'logocandy') {
-				$upload_dir = ABSPATH . get_option('upload_path');
+				$upload_dir = get_option('upload_path');
 				$upload_file = trailingslashit($upload_dir) . basename($_FILES['logo']['name']);
 				if (!is_dir($upload_dir))
 					wp_upload_dir();
