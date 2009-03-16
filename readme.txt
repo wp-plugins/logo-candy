@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=boris
 Tags: logo, eye-candy, branding
 Requires at least: 2.7
 Tested up to: 2.71
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 A small plugin that allows one to change the logo, link and link description on the log-in page of WordPress
 
