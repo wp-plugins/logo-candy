@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Logo Candy ===
 Contributors: Sp0k0
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=boris%2everhatov%40gmail%2ecom&item_number=Logo%20Candy&amount=5%2e00&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: logo, eye-candy, branding
