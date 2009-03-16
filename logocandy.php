@@ -3,7 +3,7 @@
 Plugin Name: Logo Candy
 Plugin URI: http://wordpress.org/extend/plugins/logo-candy/
 Description: A small plugin that allows one to change the logo, link and link description on the log-in page of WordPress.
-Version: 1.0
+Version: 1.0.1
 Author: Sp0k0
 Author URI: http://anotherviewonit.blogspot.com
 */
@@ -102,7 +102,7 @@ if (!class_exists('LoginCandyPlugin')) {
 </p>
 
 </form>
-
+</div>
 <?php
 		}
 
